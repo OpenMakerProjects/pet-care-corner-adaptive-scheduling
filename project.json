@@ -1,0 +1,21 @@
+{
+  "id": 90,
+  "title": "Pet Care Corner Adaptive Scheduling",
+  "repository_slug": "pet-care-corner-adaptive-scheduling",
+  "category": "Smart Home",
+  "platform": "ESP32",
+  "platform_family": "arduino",
+  "difficulty": "Intermediate",
+  "estimated_hours": 24,
+  "connectivity": "BLE",
+  "components": [
+    "RGB LED",
+    "door sensor",
+    "light sensor"
+  ],
+  "scope": "Build a smart home prototype that uses RGB LED, door sensor, light sensor to adjust schedules from occupancy patterns. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Adaptive Scheduling demonstration with repeatable test steps",
+  "mode": "closed_loop_control",
+  "entrypoint": "firmware/pet-care-corner-adaptive-scheduling/pet-care-corner-adaptive-scheduling.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
